@@ -38,8 +38,8 @@
                 "source": {
                     "type": "Git",
                     "git": {
-                        "uri": "https://github.com/jupyter-on-openshift/jupyter-notebooks",
-                        "ref": "2.1.1"
+                        "uri": "https://github.com/anand-ocp/iventura-notebooks",
+                        "ref": "master"
                     },
                     "contextDir": "minimal-notebook"
                 },
@@ -87,8 +87,8 @@
                 "source": {
                     "type": "Git",
                     "git": {
-                        "uri": "https://github.com/jupyter-on-openshift/jupyter-notebooks",
-                        "ref": "2.1.1"
+                        "uri": "https://github.com/anand-ocp/iventura-notebooks",
+                        "ref": "master"
                     },
                     "contextDir": "minimal-notebook"
                 },
